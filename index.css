@@ -1,0 +1,98 @@
+body{
+    background-image: url(jacque.jpg);
+}
+
+
+.container{
+    justify-content: center;
+    align-items: center;
+    padding: 1px;
+}
+
+
+.cesar1{
+    justify-content: center;
+    display: flex;
+}
+
+.cesar1 img{
+    margin-left: 20px;
+    border-radius: 2px;
+    margin-top: -100px;
+    height: 30px;
+}
+
+.reloj{
+    width: 1500px;
+    height: 700px;
+    margin-top: 200px;
+    color: rgb(249, 6, 6);
+    text-align: center;
+    margin: 20px auto;
+
+}
+
+.reloj .dia{
+    font-size: 20px;
+}
+
+.reloj .mes{
+    font-size: 40px;
+}
+
+.reloj .hora{
+    display: flex;
+    justify-content: center;
+    margin: 30px;
+}
+
+.reloj .hora p{
+    font-size:100px;
+    background-color: #392447;
+    opacity: 0.6;
+    padding: 10px;
+    margin: 0px 5px;
+    margin-top: 150px;
+    border-radius: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h3{
+    margin-top: -25px;
+    font-size: 10px;
+    color: rgb(133, 133, 133);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-right: 450PX;
+}
+
+h2{
+    font-size: 10px;
+    margin-right: 170px;
+    margin-top: -24px;
+    color: rgb(133, 133, 133);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1{
+    font-size: 10px;
+    margin-left: 150px;
+    margin-top: -22px;
+    color: rgb(133, 133, 133);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h4{
+    margin-left: 470px;
+    margin-top: -20px;
+    color: rgb(133, 133, 133);
+    font-size: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h5{
+    color: rgb(253, 252, 252);
+    font-family:"courier new"monospace ;
+    margin-top: -230px;
+    font-size: 15PX;
+}
+
